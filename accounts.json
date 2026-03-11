@@ -16,11 +16,5 @@
     "password": "1998",
     "expire": "2026-04-10",
     "trial": false
-  },
-  {
-    "username": "Ttttt",
-    "password": "19998",
-    "expire": "2027-01-05",
-    "trial": false
   }
 ]
