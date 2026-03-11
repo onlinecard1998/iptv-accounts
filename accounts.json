@@ -22,5 +22,11 @@
     "trial": true,
     "admin": false,
     "device": ""
+  },
+  {
+    "username": "Ahmad",
+    "password": "Ahmad",
+    "expire": "2027-03-11",
+    "trial": false
   }
 ]
