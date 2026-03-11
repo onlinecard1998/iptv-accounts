@@ -9,7 +9,7 @@
   },
   {
     "username": "taha",
-    "password": null,
+    "password": "123456",
     "expire": "2026-05-10",
     "trial": false,
     "admin": false,
