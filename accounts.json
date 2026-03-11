@@ -1,7 +1,7 @@
 [
   {
     "username": "admin",
-    "password": "123456",
+    "password": "12345678",
     "expire": "2030-01-01",
     "trial": false,
     "admin": true,
