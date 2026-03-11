@@ -18,7 +18,7 @@
   {
     "username": "trial1",
     "password": "1111",
-    "expire": "2026-03-15",
+    "expire": "30",
     "trial": true,
     "admin": false,
     "device": ""
