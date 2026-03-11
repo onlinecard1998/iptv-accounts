@@ -1,20 +1,21 @@
 [
-  {
-    "username": "taha",
-    "password": "1234",
-    "expire": "2026-03-20",
-    "trial": false
-  },
-  {
-    "username": "trial166",
-    "password": "1111",
-    "expire": "2026-03-20",
-    "trial": true
-  },
-  {
-    "username": "Taha1998",
-    "password": "1998",
-    "expire": "2026-04-10",
-    "trial": false
-  }
+ {
+  "username": "admin",
+  "password": "123456",
+  "expire": "2030-01-01",
+  "trial": false,
+  "admin": true
+ },
+ {
+  "username": "taha",
+  "password": "1234",
+  "expire": "2026-03-20",
+  "trial": false
+ },
+ {
+  "username": "trial166",
+  "password": "1111",
+  "expire": "2026-03-20",
+  "trial": true
+ }
 ]
