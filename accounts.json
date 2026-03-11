@@ -1,14 +1,20 @@
 [
- {
-  "username": "taha",
-  "password": "1234",
-  "expire": "2026-03-20",
-  "trial": false
- },
- {
-  "username": "trial1",
-  "password": "1111",
-  "expire": "2026-03-15",
-  "trial": true
- }
+  {
+    "username": "taha",
+    "password": "1234",
+    "expire": "2026-03-20",
+    "trial": false
+  },
+  {
+    "username": "trial1",
+    "password": "1111",
+    "expire": "2026-03-15",
+    "trial": true
+  },
+  {
+    "username": "Test",
+    "password": "1998",
+    "expire": "2026-04-10",
+    "trial": false
+  }
 ]
