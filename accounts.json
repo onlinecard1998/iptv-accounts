@@ -10,7 +10,7 @@
   {
     "username": "taha",
     "password": "1234",
-    "expire": "2026-03-20",
+    "expire": null,
     "trial": false,
     "admin": false,
     "device": ""
