@@ -14,13 +14,5 @@
     "trial": false,
     "admin": false,
     "device": ""
-  },
-  {
-    "username": "trial1",
-    "password": "1111",
-    "expire": "30",
-    "trial": true,
-    "admin": false,
-    "device": ""
   }
 ]
