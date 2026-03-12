@@ -21,13 +21,6 @@
     "trial": false
   },
   {
-    "username": "trial3279",
-    "password": "1234",
-    "expire": "2026-03-13",
-    "trial": true,
-    "status": "active"
-  },
-  {
     "username": "tahanet",
     "password": "1234",
     "expire": "2026-04-11",
