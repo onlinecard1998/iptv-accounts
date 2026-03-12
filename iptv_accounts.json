@@ -1,6 +1,6 @@
 [
-  {"user":"iptv1","pass":"1111"},
-  {"user":"iptv2","pass":"2222"},
-  {"user":"iptv3","pass":"3333"},
-  {"user":"iptv4","pass":"4444"}
+ {"user":"iptv1","pass":"1111","used":false},
+ {"user":"iptv2","pass":"2222","used":false},
+ {"user":"iptv3","pass":"3333","used":false},
+ {"user":"iptv4","pass":"4444","used":false}
 ]
