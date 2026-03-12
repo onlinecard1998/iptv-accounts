@@ -1,65 +1,54 @@
 {
   "sections": [
-
     {
       "name": "قنوات MBC",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MBC_2_logo.png",
       "channels": []
     },
-
     {
       "name": "beIN Sports",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bein_Sports_logo.png",
       "channels": []
     },
-
     {
       "name": "SSC",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/SSC_Saudi_Sports_Company.png",
+      "image": "https://j.top4top.io/p_3723ccc2h0.png",
       "channels": []
     },
-
     {
       "name": "أفلام",
       "image": "https://cdn-icons-png.flaticon.com/512/4221/4221484.png",
       "channels": []
     },
-
     {
       "name": "مسلسلات",
       "image": "https://cdn-icons-png.flaticon.com/512/744/744922.png",
       "channels": []
     },
-
     {
       "name": "أطفال",
       "image": "https://cdn-icons-png.flaticon.com/512/3468/3468377.png",
       "channels": []
     },
-
     {
       "name": "وثائقي",
       "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
       "channels": []
     },
-
     {
       "name": "أخبار",
       "image": "https://cdn-icons-png.flaticon.com/512/2965/2965879.png",
       "channels": []
     },
-
     {
       "name": "رياضة",
       "image": "https://cdn-icons-png.flaticon.com/512/857/857455.png",
       "channels": []
     },
-
     {
       "name": "موسيقى",
       "image": "https://cdn-icons-png.flaticon.com/512/727/727240.png",
       "channels": []
     }
-
   ]
 }
