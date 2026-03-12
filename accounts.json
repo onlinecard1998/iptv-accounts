@@ -29,7 +29,7 @@
   },
   {
     "username": "tahanet",
-    "password": "1234",
+    "password": null,
     "expire": "2026-04-11",
     "trial": false,
     "status": "active"
