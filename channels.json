@@ -4,17 +4,6 @@
       "name": "قنوات MBC",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/MBC_2_logo.png",
       "channels": []
-    },
-    {
-      "name": "Tt",
-      "image": "",
-      "channels": [
-        {
-          "name": "Gg",
-          "image": "https://j.top4top.io/p_3723ccc2h0.png",
-          "stream": "http://idlib.link:2082/live/7R346R2459/7R346R2459/139076.m3u8"
-        }
-      ]
     }
   ]
 }
