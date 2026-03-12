@@ -8,7 +8,13 @@
     {
       "name": "Tt",
       "image": "",
-      "channels": []
+      "channels": [
+        {
+          "name": "Gg",
+          "image": "https://j.top4top.io/p_3723ccc2h0.png",
+          "stream": "http://idlib.link:2082/live/7R346R2459/7R346R2459/139076.m3u8"
+        }
+      ]
     }
   ]
 }
