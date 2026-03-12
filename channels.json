@@ -1,0 +1,15 @@
+{
+ "sections":[
+  {
+   "name":"قنوات MBC",
+   "image":"https://upload.wikimedia.org/wikipedia/commons/4/4b/MBC_2_logo.png",
+   "channels":[
+    {
+     "name":"MBC 1",
+     "image":"https://upload.wikimedia.org/wikipedia/commons/4/4b/MBC_2_logo.png",
+     "stream":"http://37.49.230.253/live/7R346R2459/7R346R2459/26532.m3u8"
+    }
+   ]
+  }
+ ]
+}
