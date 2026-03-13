@@ -5,33 +5,59 @@
     "expire": "2030-01-01",
     "trial": false,
     "admin": true,
-    "device": ""
+    "status": "active",
+    "device": "",
+    "device_name": "",
+    "last_login": "",
+    "watching": "",
+    "online": false
   },
   {
     "username": "177",
     "password": "177",
     "expire": "2026-04-11",
     "trial": false,
-    "status": "active"
+    "status": "active",
+    "device": "",
+    "device_name": "",
+    "last_login": "",
+    "watching": "",
+    "online": false
   },
   {
     "username": "ahmad",
     "password": "19981998",
     "expire": "2026-03-13",
-    "trial": false
+    "trial": false,
+    "status": "active",
+    "device": "",
+    "device_name": "",
+    "last_login": "",
+    "watching": "",
+    "online": false
   },
   {
     "username": "tahanet",
     "password": "1234",
     "expire": "2026-04-11",
     "trial": false,
-    "status": "active"
+    "status": "active",
+    "device": "",
+    "device_name": "",
+    "last_login": "",
+    "watching": "",
+    "online": false
   },
   {
     "username": "trial6303",
     "password": "1234",
     "expire": "2026-03-14",
     "trial": true,
-    "status": "active"
+    "status": "active",
+    "device": "",
+    "device_name": "",
+    "last_login": "",
+    "watching": "",
+    "online": false
   }
 ]
