@@ -19,7 +19,7 @@
     "password": "19981998",
     "expire": "2026-03-13",
     "trial": false,
-    "status": "active",
+    "status": "disabled",
     "device": "",
     "device_name": "",
     "last_login": "",
