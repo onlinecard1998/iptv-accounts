@@ -56,7 +56,7 @@
     "password": "111",
     "expire": "2026-03-14",
     "trial": true,
-    "status": "disabled",
+    "status": "active",
     "device": "",
     "device_name": "",
     "last_login": "",
