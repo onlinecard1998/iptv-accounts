@@ -1,18 +1,18 @@
 [
-  {
-    "username": "admin",
-    "password": "taha1998",
-    "expire": "2030-01-01",
-    "trial": false,
-    "admin": true,
-    "status": "active",
-    "device": "",
-    "device_name": "",
-    "last_login": "",
-    "watching": "",
-    "online": false,
-    "last_seen": 1773400803074
-  },
+{
+"username":"admin",
+"password":"taha1998",
+"expire":"2030-01-01",
+"trial":false,
+"admin":true,
+"admin_pin":"4321",
+"status":"active",
+"device":"",
+"device_name":"",
+"last_login":"",
+"watching":"",
+"online":false
+}
   {
     "username": "177",
     "password": "177",
