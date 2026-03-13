@@ -61,5 +61,17 @@
     "last_login": "",
     "watching": "",
     "online": false
+  },
+  {
+    "username": "liannet",
+    "password": "888777",
+    "expire": "2026-03-14",
+    "trial": false,
+    "status": "active",
+    "device": "",
+    "device_name": "",
+    "last_login": "",
+    "watching": "",
+    "online": false
   }
 ]
