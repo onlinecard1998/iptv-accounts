@@ -70,5 +70,14 @@
     "status": "active",
     "device": "",
     "online": false
+  },
+  {
+    "username": "trial3174",
+    "password": "1234",
+    "expire": "2026-03-14",
+    "trial": true,
+    "status": "active",
+    "device": "",
+    "online": false
   }
 ]
