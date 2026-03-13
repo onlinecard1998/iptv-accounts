@@ -72,6 +72,7 @@
     "device_name": "",
     "last_login": "",
     "watching": "",
-    "online": false
+    "online": false,
+    "last_seen": 0
   }
 ]
