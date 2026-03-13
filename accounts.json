@@ -50,17 +50,5 @@
     "online": false,
     "last_seen": 1773400588107,
     "watching": ""
-  },
-  {
-    "username": "trial6303",
-    "password": "111",
-    "expire": "2026-03-14",
-    "trial": true,
-    "status": "active",
-    "device": "",
-    "device_name": "",
-    "last_login": "",
-    "watching": "",
-    "online": false
   }
 ]
