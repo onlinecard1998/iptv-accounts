@@ -9,7 +9,7 @@
     "status": "active",
     "device": "",
     "device_name": "",
-    "last_login": "",
+    "last_login": 0,
     "watching": "",
     "online": false,
     "last_seen": 0
@@ -22,7 +22,7 @@
     "status": "active",
     "device": "",
     "device_name": "",
-    "last_login": "",
+    "last_login": 0,
     "watching": "",
     "online": false,
     "last_seen": 0
@@ -47,6 +47,10 @@
     "status": "active",
     "online": false,
     "device": "",
-    "watching": ""
+    "watching": "",
+    "trial": false,
+    "device_name": "",
+    "last_login": 0,
+    "last_seen": 0
   }
 ]
