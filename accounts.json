@@ -52,5 +52,18 @@
     "device_name": "",
     "last_login": 0,
     "last_seen": 0
+  },
+  {
+    "username": "G",
+    "password": "H",
+    "expire": "2026-03-15",
+    "trial": false,
+    "status": "active",
+    "device": "",
+    "device_name": "",
+    "watching": "",
+    "online": false,
+    "last_login": 0,
+    "last_seen": 0
   }
 ]
