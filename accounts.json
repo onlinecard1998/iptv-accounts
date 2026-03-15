@@ -65,5 +65,18 @@
     "online": false,
     "last_login": 0,
     "last_seen": 0
+  },
+  {
+    "username": "1",
+    "password": "1",
+    "expire": "2026-03-18",
+    "trial": false,
+    "status": "active",
+    "device": "",
+    "device_name": "",
+    "watching": "",
+    "online": false,
+    "last_login": 0,
+    "last_seen": 0
   }
 ]
