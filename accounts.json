@@ -43,7 +43,7 @@
     "password": "star450",
     "expire": "2026-03-25",
     "trial": false,
-    "status": "disabled",
+    "status": "active",
     "device": "",
     "device_name": "",
     "watching": "",
