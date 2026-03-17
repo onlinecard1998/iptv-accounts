@@ -71,7 +71,7 @@
     "password": "1",
     "expire": "2026-03-18",
     "trial": false,
-    "status": "active",
+    "status": "disabled",
     "device": "",
     "device_name": "",
     "watching": "",
