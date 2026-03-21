@@ -78,5 +78,18 @@
     "watching": "",
     "last_login": 1774042955968,
     "last_seen": 0
+  },
+  {
+    "username": "2000",
+    "password": "2000",
+    "expire": "2026-03-28",
+    "created": "2026-03-21",
+    "status": "active",
+    "device": "",
+    "device_name": "",
+    "online": false,
+    "watching": "",
+    "last_login": 0,
+    "last_seen": 0
   }
 ]
