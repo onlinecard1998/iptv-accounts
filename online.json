@@ -85,11 +85,6 @@
     "time": 1774062626531
   },
   {
-    "user": "2000",
-    "watching": "Bein SPOR 1 SD",
-    "time": 1774062718216
-  },
-  {
     "username": "admin",
     "device": "Android",
     "time": 1774063315482
@@ -138,5 +133,10 @@
     "username": "2000",
     "device": "Android",
     "time": 1774214224707
+  },
+  {
+    "user": "2000",
+    "watching": "Bein SPOR 1 HD",
+    "time": 1774214246751
   }
 ]
